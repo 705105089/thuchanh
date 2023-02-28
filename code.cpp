@@ -6,8 +6,13 @@ void sap_xep_day_so(int* a, int n)
 	//ma lenh 
 }
 
+int tim_max(int* a, int n)
+{
+	//ma lenh ham tim max
+}
+
 int main()
 {
-	cout << "Phien ban dau tien";
+	cout << "Phien ban 2";
 	return 0;
 }
