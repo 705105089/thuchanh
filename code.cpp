@@ -11,8 +11,18 @@ int tim_max(int* a, int n)
 	//ma lenh ham tim max
 }
 
+int tim_min(int* a, int n)
+{
+	//ma lenh ham tim min
+}
+
+void print_value(int* a, int n)
+{
+	//ma lenh ham print value
+}
+
 int main()
 {
-	cout << "Phien ban 2";
+	cout << "Phien ban: my function";
 	return 0;
 }
